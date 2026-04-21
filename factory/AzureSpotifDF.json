@@ -1,0 +1,9 @@
+{
+	"name": "AzureSpotifDF",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3289c211-b04d-493d-befc-485fe3cfa0eb",
+		"tenantId": "3e02a7c0-82a6-469f-9636-7c2f28720e94"
+	}
+}
